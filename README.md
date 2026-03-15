@@ -4,7 +4,7 @@ Two projects on the same EC2 instance: deploying and configuring an Apache web s
 
 ---
 
-## Project 2 — SSH into EC2 and Install a Web Server
+## SSH into EC2 and Install a Web Server
 
 ### What Was Done
 
@@ -88,7 +88,7 @@ sudo systemctl enable apache2    # auto-start on reboot
 
 ---
 
-## Project 3 — Harden an EC2 Instance (CIS Benchmarks)
+## Harden an EC2 Instance (CIS Benchmarks)
 
 ### What Was Done
 
